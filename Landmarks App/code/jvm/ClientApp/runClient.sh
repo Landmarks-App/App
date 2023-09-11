@@ -1,0 +1,1 @@
+java -jar ClientApp-1.0-jar-with-dependencies.jar 8000

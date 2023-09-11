@@ -1,0 +1,1 @@
+gcloud functions deploy funcLookup --allow-unauthenticated --entry-point=org.example.Entrypoint --runtime=java17 --trigger-http --region=europe-west1 --source=target/deployment --service-account=cn-2223-g08-projectowner@cn2223-t1-g08.iam.gserviceaccount.com
